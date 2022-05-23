@@ -1,0 +1,2 @@
+Para el proyecto final trabajare con EJS ya que me parecio el mas sensillo de utilizar al no tener funciones especificas del motor como Handlebars.
+Pug me parecio malisimo y ojala nunca lo tenga que volver a usar.
