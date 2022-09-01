@@ -2,7 +2,7 @@ module.exports = {
   mongoConfig: {
     HOSTNAME: 'cluster0.nilfq.mongodb.net',
     SCHEMA: 'mongodb+srv',
-    USER: 'luciano',
+    USER: 'facundo',
     PASSWORD: '38991520',
     DATABASE: 'eccomerce',
     OPTIONS: 'retryWrites=true&w=majority',
